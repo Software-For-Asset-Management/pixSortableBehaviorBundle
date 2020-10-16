@@ -1,14 +1,18 @@
 {
-    "name": "pixassociates/sortable-behavior-bundle",
+    "name": "mysam/sortable-behavior-bundle",
     "type": "symfony-bundle",
     "description": "Provides a way to sort your admin listing",
     "keywords": ["sortable","admin","sonata"],
-    "homepage": "https://github.com/pix-digital/pixSortableBehaviorBundle",
+    "homepage": "https://github.com/Software-For-Asset-Management/pixSortableBehaviorBundle",
     "license": "MIT",
     "authors": [
         {
             "name": "Nicolas Ricci",
             "email": "nr@pix-digital.com"
+        },
+        {
+            "name": "Pierrick Martos",
+            "email": "pierrick@mysam.co"
         }
     ],
     "require": {
